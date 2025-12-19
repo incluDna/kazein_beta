@@ -13,6 +13,7 @@
 [Kazein Beta](https://kazein-beta-lu2v.vercel.app/)
 
 [Kazein Alpha](https://includna.github.io/kazein.alpha/) `Website for PC`
+[Kazien Alpha GitHub](https://github.com/incluDna/kazein.alpha)
 
 
 #### Plan for updating
