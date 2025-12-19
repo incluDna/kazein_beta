@@ -1,7 +1,6 @@
-﻿# kazein <img width="40" height="40" alt="kazeinlogo" src="https://github.com/user-attachments/assets/4c410703-bd12-4713-8769-79d3c7fa95d7" />
+﻿# <img width="40" height="40" alt="kazeinlogo - Copy" src="https://github.com/user-attachments/assets/9cb43439-1a92-42fc-8a00-ecdc47062f38" /> kazein
 
-
- | เกษียณ
+ | เกษียณ `beta`
 
 - Budget: คำนวณเงินที่มี ว่าพอเกษียณหรือไม่ `Next step: วิธีคำนวณแบบ 3 buckets`
 - Volunteer & Workshop: กิจกรรมจิตอาสา ออกไปทางประโยชน์ให้สังคม พบผู้คนใหม่ ๆ คลายความเหงาได้ `sortตามอายุ`
