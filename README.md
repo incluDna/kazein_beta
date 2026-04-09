@@ -2,7 +2,7 @@
 
  | เกษียณ `beta`
 
- Prototype: [Kazein Alpha](https://includna.github.io/kazein.alpha/) `Website for PC` 
+ [Prototype](https://e-portfolio.gitbook.io/cedt.intern01/webs-app/kazein-or) `visual+idea`
 
 - Budget: คำนวณเงินที่มี ว่าพอเกษียณหรือไม่ `Next step: วิธีคำนวณแบบ 3 buckets`
 - Volunteer & Workshop: กิจกรรมจิตอาสา ออกไปทางประโยชน์ให้สังคม พบผู้คนใหม่ ๆ คลายความเหงาได้ `sortตามอายุ`
@@ -14,7 +14,7 @@
 
 [Download App "Kazein.alpha" for mobile](https://github.com/incluDna/kazein.alpha/blob/863ef5455a5dc9c4274fb891dbba513f71e55c8e/app-debug.apk) <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGQ4bDJhaG51N2FsdHVkcm9sdzJlcmhtaTFjd2IweWtzZzE4YWwyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6qFYNwbl8kAKufkFvV/giphy.gif" width="85px;" height="50px">
 
-[Kazien Alpha GitHub](https://github.com/incluDna/kazein.alpha)
+[Kazein Alpha](https://includna.github.io/kazein.alpha/) `Website for PC` | [Kazien Alpha GitHub](https://github.com/incluDna/kazein.alpha)
 
 
 #### Plan for updating
